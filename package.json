@@ -5,6 +5,7 @@
   "repository": "https://github.com/rvanasa/gdax-observe",
   "author": "Ryan Vandersmith <ryanvandersmith@gmail.com>",
   "license": "ISC",
+  "keywords": ["bitcoin", "exchange", "gdax", "coinbase", "observable"],
   "dependencies": {
     "gdax": "^0.4.2",
     "rxjs": "^5.5.0"
