@@ -1,0 +1,12 @@
+{
+  "name": "gdax-observe",
+  "version": "0.1.0",
+  "description": "Observable API Wrapper for GDAX",
+  "repository": "https://github.com/rvanasa/gdax-observe",
+  "author": "Ryan Vandersmith <ryanvandersmith@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gdax": "^0.4.2",
+    "rxjs": "^5.5.0"
+  }
+}
